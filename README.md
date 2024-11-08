@@ -1,6 +1,6 @@
 ## About me
 
-Hi there 👋. I’m Shivansh Arora, a Software Developer working for [AWS](https://aws.amazon.com) on [OpenSearch Project](https://github.com/opensearch-project). I love tickering, experimenting with software products. Also, I am always down to discuss and work on scalable software solutions. 
+Hi there 👋. I’m Shivansh Arora, a Software Developer working for [AWS](https://aws.amazon.com) on [OpenSearch Project](https://github.com/opensearch-project). I love tickering, experimenting with software products. I am always down to discuss and work on scalable software solutions. 
 
 ## Get in touch :coffee:
 
@@ -9,7 +9,7 @@ Hi there 👋. I’m Shivansh Arora, a Software Developer working for [AWS](http
 
 ---
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shiv0408&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shiv's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv0408&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=shiv0408&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shiv's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv0408&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
 <p align="center"> 
