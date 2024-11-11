@@ -9,7 +9,7 @@ Hi there 👋. I’m Shivansh Arora, a Software Developer working for [AWS](http
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=shiv0408&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shiv's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv0408&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=shiv0408&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&rank_icon=github" alt="Shiv's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv0408&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
 <p align="center"> 
